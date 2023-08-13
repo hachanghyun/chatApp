@@ -117,3 +117,29 @@
 
 #### 안드로이드 빌드
     eas build -p android
+
+## 6. 리액트 네이티브 내용 및 라이브러리
+
+####컴포넌트와 API
+    Alert :  https://reactnative.dev/docs/alert
+
+    ActivityIndicator : https://reactnative.dev/docs/activityindicator
+
+    FlatList : https://reactnative.dev/docs/flatlist
+
+  
+
+####라이브러리
+    React Navigation : https://reactnavigation.org/
+
+    expo-image-picker : https://docs.expo.io/versions/latest/sdk/imagepicker/
+    
+    expo/vector-icon : https://docs.expo.io/guides/icons/
+    
+    firebase : https://docs.expo.io/guides/using-firebase/
+    
+    react-native-keyboard-aware-scroll-view : https://github.com/APSL/react-native-keyboard-aware-scroll-view
+    
+    moment : https://momentjs.com/
+    
+    react-native-gifted-chat : https://github.com/FaridSafi/react-native-gifted-chat
