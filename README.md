@@ -2,7 +2,7 @@
   
 리액트 네이티브로 간단한 채팅 앱을 만들어 봅니다.  
   
-## 채팅앱 명령어![image](https://github.com/hachanghyun/chatApp/assets/33058284/4e39fa62-c097-41a5-be08-60bd2a72818a)
+## 채팅앱 명령어
 
   
 //expo-cli 전역으로 설치해주는 명령어
