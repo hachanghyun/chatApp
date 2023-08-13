@@ -121,7 +121,8 @@
 ## 6. 리액트 네이티브 내용 및 라이브러리
 
 #### 컴포넌트와 API
-    Alert :  https://reactnative.dev/docs/alert
+    ##### Alert
+    https://reactnative.dev/docs/alert
 
     ActivityIndicator : https://reactnative.dev/docs/activityindicator
 
