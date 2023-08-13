@@ -3,35 +3,35 @@
   
 ## 2. Summary
 ### 주요 기능
-     1.회원가입 기능 (사진등록 및 변경)
+     (1). 회원가입 기능 (사진등록 및 변경)
      IOS는 실제 제 아이폰으로 테스트를 진행하였으며 Android는 시뮬레이터를 이용하여 테스트를 진행하였습니다. 
      각 플랫폼 별 회원가입 화면입니다. (왼쪽 : 아이폰, 오른쪽 : 안드로이드)
   ![시연7](https://github.com/hachanghyun/chatApp/assets/33058284/789fa641-fa5e-4ed6-a2b6-0c24f4dbc663)
   
-     2.로그인 기능
+     (2). 로그인 기능
      각 플랫폼별 로그인 화면입니다. 
     화면 상단에 있는 로고는 혹시 배포를 하게됬을때 저작권 방지로 직접 그린 로고입니다.
     
   ![시연6](https://github.com/hachanghyun/chatApp/assets/33058284/b163d7c0-a989-46c6-9b93-7592af5a13ca)
      
-     3.채팅방 등록 기능
+     (3). 채팅방 등록 기능
          로그인 후 채팅방 등록하는 화면입니다. 
      
   ![시연5](https://github.com/hachanghyun/chatApp/assets/33058284/5914ba48-454d-45e9-9919-057af2e411d0)
   ![시연4](https://github.com/hachanghyun/chatApp/assets/33058284/25fd704d-b416-4a0a-b258-6b78e04f4cda)
      
-     4.채팅 기능 
+     (4). 채팅 기능 
      채팅방에서 채팅하는 화면입니다. (아이폰 : bear@naver.com 로 로그인, 안드로이드 : rabbit@naver.com로 로그인)
 
   ![시연3](https://github.com/hachanghyun/chatApp/assets/33058284/371e933d-998f-415f-8dd5-1c04a9fd2a51)
   ![시연2](https://github.com/hachanghyun/chatApp/assets/33058284/6e7dd32b-404e-42b9-8577-ff59b544efc1)
      
-     5.프로필 조회 기능 
+     (5). 프로필 조회 기능 
      접속한 계정 프로필 확인 화면입니다.
      
   ![시연1](https://github.com/hachanghyun/chatApp/assets/33058284/1c1d7b3c-80c1-4956-9eb1-6a854479e0f7)
 
-     6.firebase 
+     (6). firebase 
      앱에 필요한 로고와 사진 등록 프로필 사진을 firebase storage에 등록하였으며 읽기권한은 전체로 부여하였습니다.
      회원가입시 등록하는 사진은 각 계정별 uid 폴더밑에 경로로 저장시켯으며 프로필 읽기 권한은 전체, 프로필 쓰기 권한은 
      uid가 동일한 계정만 사용 가능하도록 설정하였습니다.
