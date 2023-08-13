@@ -50,16 +50,11 @@
      
   ![firebase3](https://github.com/hachanghyun/chatApp/assets/33058284/9342f9a7-930c-4b44-bc55-f8c047588f57)
      
-     [채팅방 정보]
-     
      사용자가 채팅을 입력하면 채팅정보값(채팅uid), 생성날짜, 텍스트정보, 유저uid, 유저프로필사진(firebase storage에서 불러옴), 사명자명이 
      firebase database에 저장됩니다.
      
   ![2222](https://github.com/hachanghyun/chatApp/assets/33058284/b342b703-585c-41df-83b7-e73a5b66d896)
   
-    [채팅 데이터 정보]
-
-     
 ## 3. Meaning
     채팅앱을 예전부터 만들어보고 싶어서 인프런의 "처음 배우는 리액트 네이티브" 강의를 수강하여 듣게 되었습니다. 
     실제 앱개발이 처음이라 expo로 손쉽게 만들수있을것이라는 생각과 함께 시작했던 프로젝트가 정말로 힘든 프로젝트가 되었던 것 같습니다.
