@@ -8,11 +8,11 @@
      각 플랫폼 별 회원가입 화면입니다. (왼쪽 : 아이폰, 오른쪽 : 안드로이드)
   ![시연7](https://github.com/hachanghyun/chatApp/assets/33058284/789fa641-fa5e-4ed6-a2b6-0c24f4dbc663)
      2.로그인 기능
-     각 플랫폼별 로그인 화면입니다. 
-     화면 상단에 있는 로고는 혹시 배포를 하게됬을때 저작권 방지로 직접 그린 로고입니다.
+         각 플랫폼별 로그인 화면입니다. 
+         화면 상단에 있는 로고는 혹시 배포를 하게됬을때 저작권 방지로 직접 그린 로고입니다.
      ![시연6](https://github.com/hachanghyun/chatApp/assets/33058284/b163d7c0-a989-46c6-9b93-7592af5a13ca)
      3.채팅방 등록 기능
-     로그인 후 채팅방 등록하는 화면입니다. 
+         로그인 후 채팅방 등록하는 화면입니다. 
      ![시연5](https://github.com/hachanghyun/chatApp/assets/33058284/5914ba48-454d-45e9-9919-057af2e411d0)
      ![시연4](https://github.com/hachanghyun/chatApp/assets/33058284/25fd704d-b416-4a0a-b258-6b78e04f4cda)
      4.채팅 기능 
