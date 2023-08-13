@@ -1,6 +1,7 @@
 # 채팅 애플리케이션  
   
-리액트 네이티브로 간단한 채팅 앱을 만들어 봅니다.  
+리액트 네이티브로 간단한 채팅 앱을 만들어 봅니다.  [인프런 수강증.pdf](https://github.com/hachanghyun/chatApp/files/12328940/default.pdf)
+
   
 ## 채팅앱 명령어
 
