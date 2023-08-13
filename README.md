@@ -42,7 +42,7 @@
     
 ![firebase2](https://github.com/hachanghyun/chatApp/assets/33058284/c6419d77-683c-4434-addf-dcb10496fc27)
     
-    로그인한 사용자만 읽고쓸수있도록 DB channel(채팅방) 생성 권한을 등록하였습니다.
+    로그인한 사용자만 읽고 쓸수 있도록 DB channel(채팅방) 생성 권한을 등록하였습니다.
     
   ![firebase4](https://github.com/hachanghyun/chatApp/assets/33058284/06481fd4-e505-497b-a58a-a5434016de64)
      
