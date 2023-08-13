@@ -133,23 +133,23 @@
   
 
 #### 라이브러리
-    #### React Navigation
-        https://reactnavigation.org/
+#### React Navigation
+    https://reactnavigation.org/
 
-    #### expo-image-picker 
-        https://docs.expo.io/versions/latest/sdk/imagepicker/
+#### expo-image-picker 
+##### https://docs.expo.io/versions/latest/sdk/imagepicker/
     
-    #### expo/vector-icon 
-        https://docs.expo.io/guides/icons/
+#### expo/vector-icon 
+    https://docs.expo.io/guides/icons/
     
-    #### firebase 
-        https://docs.expo.io/guides/using-firebase/
-    
-    #### react-native-keyboard-aware-scroll-view 
-        https://github.com/APSL/react-native-keyboard-aware-scroll-view
-    
-    #### moment 
-        https://momentjs.com/
-    
-    #### react-native-gifted-chat 
-        https://github.com/FaridSafi/react-native-gifted-chat
+#### firebase 
+    https://docs.expo.io/guides/using-firebase/
+
+#### react-native-keyboard-aware-scroll-view 
+    https://github.com/APSL/react-native-keyboard-aware-scroll-view
+
+#### moment 
+    https://momentjs.com/
+
+#### react-native-gifted-chat 
+    https://github.com/FaridSafi/react-native-gifted-chat
