@@ -124,19 +124,19 @@
 #### Alert
 ##### https://reactnative.dev/docs/alert
 
-#### ActivityIndicator
+#### ActivityIndicator (spinner)
 ##### https://reactnative.dev/docs/activityindicator
 
-#### FlatList
+#### FlatList (button selectable)
 ##### https://reactnative.dev/docs/flatlist
 
   
 
 ### 라이브러리
-#### React Navigation
+#### React Navigation (화면간 이동)
 ##### https://reactnavigation.org/
 
-#### expo-image-picker 
+#### expo-image-picker (Device 사진첩 불러오기 라이브러리)
 ##### https://docs.expo.io/versions/latest/sdk/imagepicker/
     
 #### expo/vector-icon 
@@ -145,11 +145,11 @@
 #### firebase 
 ##### https://docs.expo.io/guides/using-firebase/
 
-#### react-native-keyboard-aware-scroll-view 
+#### react-native-keyboard-aware-scroll-view (keyboard에 화면 가려질때 스크롤 올라가는 기능 )
 ##### https://github.com/APSL/react-native-keyboard-aware-scroll-view
 
-#### moment 
+#### moment (날짜 타입 라이브러리)
 ##### https://momentjs.com/
 
-#### react-native-gifted-chat 
+#### react-native-gifted-chat (채팅 기능 라이브러리)
 ##### https://github.com/FaridSafi/react-native-gifted-chat
