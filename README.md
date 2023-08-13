@@ -44,9 +44,6 @@ eas build -p ios
 ### 안드로이드 빌드
 eas build -p android
 
-![image](https://github.com/hachanghyun/chatApp/assets/33058284/37328360-91d5-4400-b980-707281ab1cb1)
-
-  
 ## 스크린샷  
 ![IMG_6938](https://user-images.githubusercontent.com/6028833/112191593-74ab2e00-8c06-11eb-881f-b52e041a88c6.png)
 ![IMG_6935](https://user-images.githubusercontent.com/6028833/112191585-737a0100-8c06-11eb-9611-6426b8fc58b8.png)
