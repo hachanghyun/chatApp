@@ -4,9 +4,9 @@
 ## 2. Summary
 ### 주요 기능
      1.회원가입 기능
-  ![시연7](https://github.com/hachanghyun/chatApp/assets/33058284/789fa641-fa5e-4ed6-a2b6-0c24f4dbc663)
-     IOS는 실제 제 아이폰으로 테스트를 진행하였으며 Android는 시뮬레이터를 이용하여 테스트를 진행하였습니다. 
+      IOS는 실제 제 아이폰으로 테스트를 진행하였으며 Android는 시뮬레이터를 이용하여 테스트를 진행하였습니다. 
      각 플랫폼 별 화면입니다. (왼쪽 : 아이폰, 오른쪽 : 안드로이드)
+  ![시연7](https://github.com/hachanghyun/chatApp/assets/33058284/789fa641-fa5e-4ed6-a2b6-0c24f4dbc663)
          
 
      2.로그인 기능 (사진등록 및 변경)
