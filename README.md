@@ -32,9 +32,9 @@
   ![시연1](https://github.com/hachanghyun/chatApp/assets/33058284/1c1d7b3c-80c1-4956-9eb1-6a854479e0f7)
 
      6.firebase 
-     앱에 필요한 로고와 사진등록프로필 사진을 firebase storage에 등록하였으며 읽기권한은 전체로 부여하였습니다.
-     회원가입시 등록하는 사진은 각 계정별 uid 폴더밑에 경로로 저장시켯으면 프로필읽기권한은 전체, 프로필쓰기권한은 
-     uid가 동일한 계정만 사용가능하도록 설정하였습니다.
+     앱에 필요한 로고와 사진 등록 프로필 사진을 firebase storage에 등록하였으며 읽기권한은 전체로 부여하였습니다.
+     회원가입시 등록하는 사진은 각 계정별 uid 폴더밑에 경로로 저장시켯으며 프로필 읽기 권한은 전체, 프로필 쓰기 권한은 
+     uid가 동일한 계정만 사용 가능하도록 설정하였습니다.
      
 ![firebase1](https://github.com/hachanghyun/chatApp/assets/33058284/98d76c6d-5c70-403a-bd1d-a9060da85345)
    
