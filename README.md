@@ -22,9 +22,9 @@
      
      4.채팅 기능 
      채팅방에서 채팅하는 화면입니다. (아이폰 : bear@naver.com 로 로그인, 안드로이드 : rabbit@naver.com로 로그인)
-     
-  ![시연2](https://github.com/hachanghyun/chatApp/assets/33058284/6e7dd32b-404e-42b9-8577-ff59b544efc1)
+
   ![시연3](https://github.com/hachanghyun/chatApp/assets/33058284/371e933d-998f-415f-8dd5-1c04a9fd2a51)
+  ![시연2](https://github.com/hachanghyun/chatApp/assets/33058284/6e7dd32b-404e-42b9-8577-ff59b544efc1)
      
      5.프로필 조회 기능 
      접속한 계정 프로필 확인 화면입니다.
