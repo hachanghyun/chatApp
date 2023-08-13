@@ -1,6 +1,9 @@
 # 채팅 애플리케이션  
   
-리액트 네이티브로 간단한 채팅 앱을 만들어 봅니다.  [인프런 수강증.pdf](https://github.com/hachanghyun/chatApp/files/12328940/default.pdf)
+채팅앱을 예전부터 만들어보고 싶어서 인프런의 
+
+![image](https://github.com/hachanghyun/chatApp/assets/33058284/c95f873d-9b01-41e0-96f5-c5b7018f591f)
+
 
   
 ## 채팅앱 명령어
