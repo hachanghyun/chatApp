@@ -39,7 +39,7 @@
 //빌드전 실행
 npm install -g eas-cli
 
-//IOS 빌드
+##IOS 빌드
 eas build -p ios
 
 //안드로이드 빌드
