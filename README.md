@@ -9,7 +9,9 @@
   
 ## 4. Technology Stack(s)
 Frontend : Javascript, , Native Cli, Expo
+
 Backend : Firebase Authentication
+
 Database : Firebase Database (Cloud Firestore)
 
 ## 5. Environment Setup
