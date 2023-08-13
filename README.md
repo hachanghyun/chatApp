@@ -20,7 +20,7 @@
     npm install -g expo-cli 
 
 #### expo 프로젝트 만들어주는 명령어
-    expo init "프로젝트명"
+expo init "프로젝트명"
 
 #### expo 프로젝트 실행
     npx expo start 
