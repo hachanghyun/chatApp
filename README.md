@@ -120,7 +120,7 @@
 
 ## 6. 리액트 네이티브 내용 및 라이브러리
 
-####컴포넌트와 API
+#### 컴포넌트와 API
     Alert :  https://reactnative.dev/docs/alert
 
     ActivityIndicator : https://reactnative.dev/docs/activityindicator
@@ -129,7 +129,7 @@
 
   
 
-####라이브러리
+#### 라이브러리
     React Navigation : https://reactnavigation.org/
 
     expo-image-picker : https://docs.expo.io/versions/latest/sdk/imagepicker/
