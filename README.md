@@ -3,7 +3,7 @@
 ## 2. Summary
   ### 주요 기능
   
-## 3. Meaning
+## 3.Meaning
   채팅앱을 예전부터 만들어보고 싶어서 인프런의 처음 배우는 리액트 네이티브 강의를 수강하여 듣게 되었습니다. 
 ## 4. Technology Stack(s)
 ## 5. Environment Setup
