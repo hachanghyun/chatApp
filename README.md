@@ -2,7 +2,7 @@
   https://github.com/hachanghyun/chatApp
   
 ## 2. Summary
-    ### 주요 기능
+### 주요 기능
      회원가입 기능
      로그인 기능 (사진등록 및 변경)
      채팅방 등록 기능
