@@ -122,7 +122,7 @@
 
 #### 컴포넌트와 API
     ##### Alert
-    https://reactnative.dev/docs/alert
+        https://reactnative.dev/docs/alert
 
     ActivityIndicator : https://reactnative.dev/docs/activityindicator
 
