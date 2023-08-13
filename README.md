@@ -6,7 +6,7 @@
 
 
 ## Deployment URL
-
+  https://github.com/hachanghyun/chatApp
 ## Technology Stack(s)
 ## Environment Setup
 
