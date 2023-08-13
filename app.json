@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "BasicChatApp",
+    "slug": "chatApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "plugins": [
+      "expo-image-picker"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.expo.changhyun",
+      "buildNumber": "1.0.0",
+      "infoPlist": {
+        "NSPhtoLibraryUsageDescription": "thme app accesses the photo library to upload your profile when you are signing up or updating profile"
+      }
+    },
+    "android": {
+      "package": "com.expo.changhyun",
+      "versionCode": 1,
+      "permissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.RECORD_AUDIO"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7b6e41ae-414d-4bc7-af22-17b4235508b3"
+      }
+    }
+  }
+}
