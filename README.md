@@ -91,7 +91,15 @@
 #### expo 프로젝트 실행
     npx expo start 
     npm start 
+    
+#### 빌드전 실행
+    npm install -g eas-cli
 
+#### IOS 빌드
+    eas build -p ios
+
+#### 안드로이드 빌드
+    eas build -p android
 
 #### styled components 라이브러리 추가
     npm i styled-components 
@@ -113,15 +121,6 @@
 
 #### 경로 바뀌었을때 캐쉬 클리어
     npm start --clean-cache
-
-#### 빌드전 실행
-    npm install -g eas-cli
-
-#### IOS 빌드
-    eas build -p ios
-
-#### 안드로이드 빌드
-    eas build -p android
 
 ## 6. 리액트 네이티브 내용 및 라이브러리
 
