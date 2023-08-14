@@ -80,11 +80,18 @@
     
 #### expo 프로젝트 실행
     npm init
-    
+#### eas 세팅
+    npm install -g eas-cli
+
+#### log in expo accout
+    eas login
+
+#### configure the project
+    eas build:configure
 #### expo 프로젝트 실행
     npx expo start 
-    
     npm start 
+
 
 #### styled components 라이브러리 추가
     npm i styled-components 
