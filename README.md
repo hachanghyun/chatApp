@@ -181,3 +181,22 @@
 
 #### 현재 설치되어있는 노드버젼 전부확인 
     nvm ls
+
+### 안드로이드 에뮬레이터 세팅
+
+#### jdk 11 설치
+  brew tap homebrew/cask-versions
+  brew install --cask zulu11
+
+#### 자바 mac 에서 환경변수 설정 
+    vim ~/.zshrc
+    JAVA_HOME=/Library/Java/JavaVirtualMachines/zulu-11.jdk/Contents/Home
+    PATH=$PATH:$JAVA_HOME/bin
+    export JAVA_HOME
+    export PATH
+
+#### 소스 입력 확인
+    source ~/.zshrc
+
+#### 잘 적용되었는지 확인
+     echo $JAVA_HOME
