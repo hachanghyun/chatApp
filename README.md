@@ -194,13 +194,17 @@
     PATH=$PATH:$JAVA_HOME/bin
     export JAVA_HOME
     export PATH
-
-#### 안드로이드 스튜디오 sdk 세팅 arm은 applechip 으로 보면됨
-<img width="455" alt="스크린샷 2023-08-15 오후 11 53 58" src="https://github.com/hachanghyun/chatApp/assets/33058284/468f509d-f597-4173-bb01-7ca08096ec2a">
-
-
+    
 #### 소스 입력 확인
     source ~/.zshrc
 
 #### 잘 적용되었는지 확인
      echo $JAVA_HOME
+
+#### 안드로이드 스튜디오 sdk 세팅 arm은 applechip 으로 보면됨
+<img width="455" alt="스크린샷 2023-08-15 오후 11 53 58" src="https://github.com/hachanghyun/chatApp/assets/33058284/468f509d-f597-4173-bb01-7ca08096ec2a">
+
+#### ~/.zshrc 파일에 안드로이드 환경변수 등록
+    export ANDROID_HOME=$HOME/Library/Android/sdk
+    export PATH=$PATH:$ANDROID_HOME/emulator
+    export PATH=$PATH:$ANDROID_HOME/platform-tools
