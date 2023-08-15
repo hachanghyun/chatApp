@@ -80,7 +80,11 @@
     
 #### expo 프로젝트 실행
     npm init
-#### eas 세팅
+
+#### node_module 설치
+  npm install
+
+#### eas 세팅 
     npm install -g eas-cli
 
 #### log in expo accout
