@@ -157,3 +157,27 @@
 
 #### react-native-gifted-chat (채팅 기능 라이브러리)
 ##### https://github.com/FaridSafi/react-native-gifted-chat
+
+### 설치 세팅 
+
+#### nvm 설치 
+    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.4/install.sh | bash
+
+  Running either of the above commands downloads a script and runs it. The script clones the nvm repository to ~/.nvm, and attempts to add the source lines from the snippet below to the correct profile file (~/.bash_profile, ~/.zshrc, ~/.profile, or ~/.bashrc).
+
+  현재 zshrc 버전으로 update 되었음.
+  vim ~/.zshrc
+
+  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+
+이거 소스 띄워쓰기 잘해야함 '[-s' 부분시작지점으로 해야함 이것때문에 30분 삽질함
+
+#### nvm 명령어
+nvm help 
+
+#### nvm 14버전 설치 명령어
+nvm install 14
+
+#### 현재 설치되어있는 노드버젼 전부확인 
+nvm ls
