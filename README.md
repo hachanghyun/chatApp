@@ -16,30 +16,37 @@
      (3). 채팅방 등록 기능
          로그인 후 채팅방 등록하는 화면입니다. 
    ![시연5](https://github.com/hachanghyun/chatApp/assets/33058284/09d218e0-54e1-47c6-9fc9-7e0685ff7ca0)
-
+![시연4](https://github.com/hachanghyun/chatApp/assets/33058284/4e86202d-1588-4185-9516-70cf9da571d5)
      (4). 채팅 기능 
      채팅방에서 채팅하는 화면입니다. (아이폰 : bear@naver.com 로 로그인, 안드로이드 : rabbit@naver.com로 로그인)
-![시연4](https://github.com/hachanghyun/chatApp/assets/33058284/4e86202d-1588-4185-9516-70cf9da571d5)
+![시연3](https://github.com/hachanghyun/chatApp/assets/33058284/e5beede3-0ecb-41df-85ec-065ad8664361)
+![시연2](https://github.com/hachanghyun/chatApp/assets/33058284/5a61242e-5fe8-45e2-9570-60b1753642fb)
 
      (5). 프로필 조회 기능 
      접속한 계정 프로필 확인 화면입니다.
-![시연3](https://github.com/hachanghyun/chatApp/assets/33058284/e5beede3-0ecb-41df-85ec-065ad8664361)
+![시연1](https://github.com/hachanghyun/chatApp/assets/33058284/a342439e-2cce-4546-877b-c8c70d42588a)
 
      (6). firebase 
      앱에 필요한 로고와 사진 등록 프로필 사진을 firebase storage에 등록하였으며 읽기권한은 전체로 부여하였습니다.
      회원가입시 등록하는 사진은 각 계정별 uid 폴더밑에 경로로 저장시켯으며 프로필 읽기 권한은 전체, 프로필 쓰기 권한은 
      uid가 동일한 계정만 사용 가능하도록 설정하였습니다.
-     
+![firebase1](https://github.com/hachanghyun/chatApp/assets/33058284/1bae654b-172e-49f0-a898-d8c4d7a30eef)
+
+
 
     사용자 회원가입시 등록되는 사용자 권한 페이지이며 사용자가 등록될때마다 고유한 PK값 uid를 부여하였습니다.
-       
+   ![firebase2](https://github.com/hachanghyun/chatApp/assets/33058284/4f2a2506-033f-4e8b-a1da-356951d5476d)
+
     로그인한 사용자만 읽고 쓸수 있도록 DB channel(채팅방) 생성 권한을 등록하였습니다.
-       
+   ![firebase4](https://github.com/hachanghyun/chatApp/assets/33058284/de4580d9-abb9-438a-94af-1822c9f87441)
+
      사용자가 채팅방 정보를 등록하면 생성일자, 채팅방id(uid), 채팅방명(title)이 firebase database 에 등록됩니다.
-  
+  ![firebase3](https://github.com/hachanghyun/chatApp/assets/33058284/669431f8-c250-41b4-9210-b5c156d2e4d8)
+
      사용자가 채팅을 입력하면 채팅정보값(채팅uid), 생성날짜, 텍스트정보, 유저uid, 유저프로필사진(firebase storage에서 불러옴), 사명자명이 
      firebase database에 저장됩니다.
-     
+   <img width="1033" alt="화면 캡처 2023-08-28 220900" src="https://github.com/hachanghyun/chatApp/assets/33058284/d1a78cb0-aa55-4659-8468-1f66a01669a4">
+
 ## 3. Meaning
     채팅앱을 예전부터 만들어보고 싶어서 인프런의 "처음 배우는 리액트 네이티브" 강의를 수강하여 듣게 되었습니다. 
     실제 앱개발이 처음이라 expo로 손쉽게 만들수있을것이라는 생각과 함께 시작했던 프로젝트가 정말로 힘든 프로젝트가 되었던 것 같습니다.
