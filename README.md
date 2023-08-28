@@ -11,15 +11,19 @@
      (2). 로그인 기능
      각 플랫폼별 로그인 화면입니다. 
     화면 상단에 있는 로고는 혹시 배포를 하게됬을때 저작권 방지로 직접 그린 로고입니다.
-    
+  ![시연6](https://github.com/hachanghyun/chatApp/assets/33058284/9cfb75ae-62e1-407d-b69d-7edfaaa826d8)
+
      (3). 채팅방 등록 기능
          로그인 후 채팅방 등록하는 화면입니다. 
-     
+   ![시연5](https://github.com/hachanghyun/chatApp/assets/33058284/09d218e0-54e1-47c6-9fc9-7e0685ff7ca0)
+
      (4). 채팅 기능 
      채팅방에서 채팅하는 화면입니다. (아이폰 : bear@naver.com 로 로그인, 안드로이드 : rabbit@naver.com로 로그인)
+![시연4](https://github.com/hachanghyun/chatApp/assets/33058284/4e86202d-1588-4185-9516-70cf9da571d5)
 
      (5). 프로필 조회 기능 
      접속한 계정 프로필 확인 화면입니다.
+![시연3](https://github.com/hachanghyun/chatApp/assets/33058284/e5beede3-0ecb-41df-85ec-065ad8664361)
 
      (6). firebase 
      앱에 필요한 로고와 사진 등록 프로필 사진을 firebase storage에 등록하였으며 읽기권한은 전체로 부여하였습니다.
