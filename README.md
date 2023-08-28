@@ -35,17 +35,17 @@
 
 
     사용자 회원가입시 등록되는 사용자 권한 페이지이며 사용자가 등록될때마다 고유한 PK값 uid를 부여하였습니다.
-   ![firebase2](https://github.com/hachanghyun/chatApp/assets/33058284/4f2a2506-033f-4e8b-a1da-356951d5476d)
+ ![firebase2](https://github.com/hachanghyun/chatApp/assets/33058284/4f2a2506-033f-4e8b-a1da-356951d5476d)
 
     로그인한 사용자만 읽고 쓸수 있도록 DB channel(채팅방) 생성 권한을 등록하였습니다.
-   ![firebase4](https://github.com/hachanghyun/chatApp/assets/33058284/de4580d9-abb9-438a-94af-1822c9f87441)
+ ![firebase4](https://github.com/hachanghyun/chatApp/assets/33058284/de4580d9-abb9-438a-94af-1822c9f87441)
 
      사용자가 채팅방 정보를 등록하면 생성일자, 채팅방id(uid), 채팅방명(title)이 firebase database 에 등록됩니다.
-  ![firebase3](https://github.com/hachanghyun/chatApp/assets/33058284/669431f8-c250-41b4-9210-b5c156d2e4d8)
+![firebase3](https://github.com/hachanghyun/chatApp/assets/33058284/669431f8-c250-41b4-9210-b5c156d2e4d8)
 
      사용자가 채팅을 입력하면 채팅정보값(채팅uid), 생성날짜, 텍스트정보, 유저uid, 유저프로필사진(firebase storage에서 불러옴), 사명자명이 
      firebase database에 저장됩니다.
-   <img width="1033" alt="화면 캡처 2023-08-28 220900" src="https://github.com/hachanghyun/chatApp/assets/33058284/d1a78cb0-aa55-4659-8468-1f66a01669a4">
+<img width="1033" alt="화면 캡처 2023-08-28 220900" src="https://github.com/hachanghyun/chatApp/assets/33058284/d1a78cb0-aa55-4659-8468-1f66a01669a4">
 
 ## 3. Meaning
     채팅앱을 예전부터 만들어보고 싶어서 인프런의 "처음 배우는 리액트 네이티브" 강의를 수강하여 듣게 되었습니다. 
