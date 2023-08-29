@@ -6,25 +6,27 @@
      (1). 회원가입 기능 (사진등록 및 변경)
      IOS는 실제 제 아이폰으로 테스트를 진행하였으며 Android는 시뮬레이터를 이용하여 테스트를 진행하였습니다. 
      각 플랫폼 별 회원가입 화면입니다. (왼쪽 : 아이폰, 오른쪽 : 안드로이드)
-  ![시연7](https://github.com/hachanghyun/chatApp/assets/33058284/9dbe42d7-a40c-4168-bc69-cde53bb50b84)
+![시연7](https://github.com/hachanghyun/chatApp/assets/33058284/0a6d4c3b-9af8-4a0a-a225-31ffe177aaaf)
 
      (2). 로그인 기능
      각 플랫폼별 로그인 화면입니다. 
     화면 상단에 있는 로고는 혹시 배포를 하게됬을때 저작권 방지로 직접 그린 로고입니다.
-  ![시연6](https://github.com/hachanghyun/chatApp/assets/33058284/9cfb75ae-62e1-407d-b69d-7edfaaa826d8)
+![시연6](https://github.com/hachanghyun/chatApp/assets/33058284/70382a86-7bb9-450e-a0b9-5968035836a8)
 
      (3). 채팅방 등록 기능
          로그인 후 채팅방 등록하는 화면입니다. 
-   ![시연5](https://github.com/hachanghyun/chatApp/assets/33058284/09d218e0-54e1-47c6-9fc9-7e0685ff7ca0)
-![시연4](https://github.com/hachanghyun/chatApp/assets/33058284/4e86202d-1588-4185-9516-70cf9da571d5)
+![시연5](https://github.com/hachanghyun/chatApp/assets/33058284/2cf81a4b-2670-4da3-8b50-321dc56fe23c)
+![시연4](https://github.com/hachanghyun/chatApp/assets/33058284/6d41c719-2460-4b7e-9906-c9dddf2141d0)
+
      (4). 채팅 기능 
      채팅방에서 채팅하는 화면입니다. (아이폰 : bear@naver.com 로 로그인, 안드로이드 : rabbit@naver.com로 로그인)
-![시연3](https://github.com/hachanghyun/chatApp/assets/33058284/e5beede3-0ecb-41df-85ec-065ad8664361)
-![시연2](https://github.com/hachanghyun/chatApp/assets/33058284/5a61242e-5fe8-45e2-9570-60b1753642fb)
+![시연3](https://github.com/hachanghyun/chatApp/assets/33058284/45477c1c-c764-4bff-9a42-40a64648f7f3)
+![시연2](https://github.com/hachanghyun/chatApp/assets/33058284/5e9a8ff9-ad58-4ff4-b2ca-10ff0aff349a)
 
      (5). 프로필 조회 기능 
      접속한 계정 프로필 확인 화면입니다.
-![시연1](https://github.com/hachanghyun/chatApp/assets/33058284/a342439e-2cce-4546-877b-c8c70d42588a)
+![시연1](https://github.com/hachanghyun/chatApp/assets/33058284/66072dbc-7cdb-4a31-a3e7-4c8d442e05e2)
+
 
      (6). firebase 
      앱에 필요한 로고와 사진 등록 프로필 사진을 firebase storage에 등록하였으며 읽기권한은 전체로 부여하였습니다.
