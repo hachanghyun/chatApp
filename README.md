@@ -3,43 +3,44 @@
   
 ## 2. Summary
 ### 주요 기능
-     (1). 회원가입 기능 (사진등록 및 변경)
+
+#### (1). 화면 및 기능 설명
+     회원가입 기능 (사진등록 및 변경)
      IOS는 실제 제 아이폰으로 테스트를 진행하였으며 Android는 시뮬레이터를 이용하여 테스트를 진행하였습니다. 
      각 플랫폼 별 회원가입 화면입니다. (왼쪽 : 아이폰, 오른쪽 : 안드로이드)
 ![시연7](https://github.com/hachanghyun/chatApp/assets/33058284/48115127-3b16-43ae-bd74-389ae7efee5f)
 
 
-     (2). 로그인 기능
+     로그인 기능
      각 플랫폼별 로그인 화면입니다. 
     화면 상단에 있는 로고는 혹시 배포를 하게됬을때 저작권 방지로 직접 그린 로고입니다.
 ![시연6](https://github.com/hachanghyun/chatApp/assets/33058284/0d60cfb4-1d3f-4c0a-87ea-79bfe851c173)
 
 
-     (3). 채팅방 등록 기능
+     채팅방 등록 기능
          로그인 후 채팅방 등록하는 화면입니다. 
 ![시연5](https://github.com/hachanghyun/chatApp/assets/33058284/553d5597-817b-4bc5-8775-ae3dfe3861d2)
 ![시연4](https://github.com/hachanghyun/chatApp/assets/33058284/99f0f234-cf33-4cd6-8b71-28341ba30208)
 
 
-     (4). 채팅 기능 
+     채팅 기능 
      채팅방에서 채팅하는 화면입니다. (아이폰 : bear@naver.com 로 로그인, 안드로이드 : rabbit@naver.com로 로그인)
 ![시연3](https://github.com/hachanghyun/chatApp/assets/33058284/68f1339b-dbb0-46c6-9cd6-f34053310f76)
 ![시연2](https://github.com/hachanghyun/chatApp/assets/33058284/cacbc9d5-a8d9-488b-88a5-e76cae41063f)
 
 
-     (5). 프로필 조회 기능 
+     프로필 조회 기능 
      접속한 계정 프로필 확인 화면입니다.
 ![시연1](https://github.com/hachanghyun/chatApp/assets/33058284/33ebd1be-d7cb-45d4-9cb1-28ee6a0b9cd9)
 
 
+#### (2). 백엔드 구성 (by.firebase)
 
-     (6). firebase 
+     firebase 
      앱에 필요한 로고와 사진 등록 프로필 사진을 firebase storage에 등록하였으며 읽기권한은 전체로 부여하였습니다.
      회원가입시 등록하는 사진은 각 계정별 uid 폴더밑에 경로로 저장시켯으며 프로필 읽기 권한은 전체, 프로필 쓰기 권한은 
      uid가 동일한 계정만 사용 가능하도록 설정하였습니다.
 ![firebase1](https://github.com/hachanghyun/chatApp/assets/33058284/1bae654b-172e-49f0-a898-d8c4d7a30eef)
-
-
 
     사용자 회원가입시 등록되는 사용자 권한 페이지이며 사용자가 등록될때마다 고유한 PK값 uid를 부여하였습니다.
  ![firebase2](https://github.com/hachanghyun/chatApp/assets/33058284/4f2a2506-033f-4e8b-a1da-356951d5476d)
@@ -58,8 +59,7 @@
     채팅앱을 예전부터 만들어보고 싶어서 인프런의 "처음 배우는 리액트 네이티브" 강의를 수강하여 듣게 되었습니다. 
     실제 앱개발이 처음이라 expo로 손쉽게 만들수있을것이라는 생각과 함께 시작했던 프로젝트가 정말로 힘든 프로젝트가 되었던 것 같습니다.
     기존에 Javascript를 안다고 자만했던 제 자신을 반성하며 앱 개발이 백엔드개발 만큼이나 이렇게 힘들다는것을 몸소 느끼게 되었습니다.
-
-    이번 채팅앱은 정말 힘들게 만든만큼 배포까지가 목표였습니다. (IOS 개발자등록 1년에 $100, 구글 개발자 등록 $25  total= $125를 결재 하였습니다...ㅠㅠ)
+    이번 채팅앱은 정말 힘들게 만든만큼 배포까지가 목표였습니다
     하지만 커뮤니티앱을 올리는만큼 관리부분(언어폭력 차단 방안)에 문제가 많을것으로 예상되어 배포는 하지 않게되었습니다.
     
 ## 4. Technology Stack(s)
