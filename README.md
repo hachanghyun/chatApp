@@ -17,7 +17,7 @@
 ![시연6](https://github.com/hachanghyun/chatApp/assets/33058284/0d60cfb4-1d3f-4c0a-87ea-79bfe851c173)
 
 
-   ###### (c).채팅방 등록 기능
+   ##### (c).채팅방 등록 기능
          로그인 후 채팅방 등록하는 화면입니다. 
 ![시연5](https://github.com/hachanghyun/chatApp/assets/33058284/553d5597-817b-4bc5-8775-ae3dfe3861d2)
 ![시연4](https://github.com/hachanghyun/chatApp/assets/33058284/99f0f234-cf33-4cd6-8b71-28341ba30208)
