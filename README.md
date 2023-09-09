@@ -61,14 +61,14 @@
     이번 채팅앱은 정말 힘들게 만든만큼 배포까지가 목표였습니다
     하지만 커뮤니티앱을 올리는만큼 관리부분(언어폭력 차단 방안)에 문제가 많을것으로 예상되어 배포는 하지 않게되었습니다.
     
-## 4. Technology Stack(s)
+## 4. Technology Stacks
     Frontend : Javascript, Native Cli, Expo
     
     Backend : Firebase Authentication
     
     Database : Firebase Database (Cloud Firestore)
 
-## 5. Environment Setup
+## 5. Develop Environment
 
 #### expo-cli 전역으로 설치해주는 명령어
     npm install -g expo-cli 
