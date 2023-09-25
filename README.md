@@ -80,7 +80,7 @@
     npm init
 
 #### node_module 설치
-  npm install
+    npm install
 
 #### eas 세팅 
     npm install -g eas-cli
